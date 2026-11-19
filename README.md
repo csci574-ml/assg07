@@ -22,16 +22,16 @@ the resulting principal component vectors found for some data, and see how such 
   tested and graded are imported from there into this notebook.
   - You have not been given function documentation and stub functions for this and future assignment.  You need to
     add in the function declarations and uncomment the code to import and test your functions.
-  - You are required to give NumPy style formated Pydoc documentation for your functions.
+  - You are required to give NumPy style formatted Pydoc documentation for your functions.
 - After coding your function, run the `### TESTED FUNCTION` cell to determine if it is passing the assignment
   unit tests and that your result is correct.
 
 # Objectives
 
-**After this assignmeent you will**:
+**After this assignment you will**:
 
 - Understand the basics of how the K-means clustering algorithm is implemented.
-- Be familiar with applying K-means clustering using the Scikit-learn library.
+- Be familiar with applying K-means clustering using the scikit-learn library.
 - Know how the basics of PCA (normalization and singular value decomposition) are implemented.
 - Be able to apply PCA to a set of data using scikit-learn.
 
